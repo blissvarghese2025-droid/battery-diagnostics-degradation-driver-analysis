@@ -110,7 +110,7 @@ These parameters provide valuable insights into battery degradation behaviour an
 ## Key Visualizations
 
 ### SOH Distribution
-![SOH Distribution](SOH_distribution.png)
+![SOH Distribution](SOH_Distribution.png)
 
 ### SOH vs Temperature
 ![SOH vs Temperature](SOH_vs_Temperature.png)
