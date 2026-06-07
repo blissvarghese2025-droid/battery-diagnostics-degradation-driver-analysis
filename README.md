@@ -107,23 +107,25 @@ These parameters provide valuable insights into battery degradation behaviour an
 
 ## Key Visualizations
 
-### Correlation Matrix
-
-![Correlation Matrix](correlation_matrix.png)
-
-### SOH vs Internal Resistance
-
-![SOH vs Internal Resistance](SOH_vs_Internal_Resistance.png)
-
-### SOH vs Thermal Stress
-
-![SOH vs Thermal Stress](SOH_vs_Thermal_Stress.png)
+## Key Visualizations
 
 ### SOH Distribution
-
 ![SOH Distribution](SOH_distribution.png)
 
----
+### SOH vs Temperature
+![SOH vs Temperature](SOH_vs_Temperature.png)
+
+### SOH vs Internal Resistance
+![SOH vs Internal Resistance](SOH_vs_Internal_Resistance.png)
+
+### SOH vs Charging Efficiency
+![SOH vs Charging Efficiency](SOH_vs_Charging_efficiency.png)
+
+### SOH vs Thermal Stress
+![SOH vs Thermal Stress](SOH_vs_Thermal_Stress.png)
+
+### Battery Diagnostics Correlation Matrix
+![Correlation Matrix](correlation_matrix.png)
 
 ## Technologies Used
 
